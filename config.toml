@@ -1,4 +1,4 @@
-baseurl                 = "https://iNZIGHT.github.io/"               # Your domain name. Must end with "/"
+baseurl                 = "bjorkman.io/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 defaultContentLanguage  = "en"
 isMultilingual          = false
